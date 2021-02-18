@@ -5,3 +5,13 @@ h1.title {
   font-weight: 400;
   font-size: 7vw;
 }
+
+h2.logo {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 1.5vw;
+  text-align: right;
+}
+
+.top_spacer {
+  height: 100px;
+}
