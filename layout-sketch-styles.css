@@ -2,8 +2,9 @@
 
 h1.title {
   font-family: 'EB Garamond', serif;
-  font-weight: 400;
+  font-weight: 500;
   font-size: 7vw;
+  margin-left: 10vw;
 }
 
 h2.logo {
@@ -12,6 +13,14 @@ h2.logo {
   text-align: right;
 }
 
-.top_spacer {
+.top-spacer {
   height: 100px;
+}
+
+.h1-circle {
+  width: 24vw;
+  height: 24vw;
+  margin-bottom: -17vw;
+  background: #3AE2D2;
+  border-radius: 50%
 }
